@@ -1,0 +1,8 @@
+Akshay Saini
+
+Session 1: HTML, JS, React CDN Links,(index.html. app.js,index. css), React Element is an Object,Attributes and Props,
+VS Code - Emmet, html:5 to write code,Sibling - write Arrays, Order Matters, root.render replaces everything in the root
+React is a Library - not a Framework, can be used for massive applications,
+
+Session 2: JSX,
+
